@@ -27,6 +27,10 @@ You can install the environment by: ```conda env create -f environment.yml```
 
 Activate the env by: ```conda activate sportsfield```
 
+### Pretrained Weights
+
+We provide the pretrained weights for soccer on [Google drive](https://drive.google.com/file/d/1kgc6wfgdIDsHBhFMAr6YwTWbrigNv_UB/view?usp=sharing). Download "out.zip", and extract all the content to  ```./out```, such that the ```./out``` folder contains ```pretrained_init_guess	``` and ```pretrained_loss_surface``` .
+
 ### Play with jupyter notebook
 
 Users can overlay the template to a soccer image or video using the notebook.
