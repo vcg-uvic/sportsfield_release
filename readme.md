@@ -4,7 +4,7 @@
 This repository is a reference implementation for the inference part of "Optimizing Through Learned Errors for Accurate Sports Field Registration", WACV 2020. 
 For more details, please refer to our WACV 2020 or [[arXiv](https://arxiv.org/abs/1909.08034)] paper. A video showing the results is available [[here](https://jiangwei221.github.io/vids/sportsfield/README.html)]
 
-![teaser](./data/teaser.png =360x)
+![teaser](https://raw.githubusercontent.com/vcg-uvic/sportsfield/master/data/teaser.png)
 
 The released code is freely available for free non-commercial academic research use, and may be redistributed under these conditions. Any commercial use is prohibited.
 
