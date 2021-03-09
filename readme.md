@@ -11,7 +11,7 @@ The released code is freely available for free non-commercial academic research 
 *Note*: We decided to not release the training code. Sorry for any inconvenience.
 
 ## Patent Pending
-The Optimization Based Image Registration is patent protected (pending applications **US 62/850,910**; **US 16/049,546**; **EP17746676.0**; **CA 3,012,721**) and shall not be used for any commercial application. For information about licensing please contact If you are interested in a commercial license, contact [Sportlogiq](https://sportlogiq.com) or [SLiQ Labs](https://sliqlabs.com). 
+The Optimization Based Image Registration is patent protected (pending applications **US 62/850,910**; **US 16/049,546**; **EP17746676.0**; **CA 3,012,721**)[[here](https://patents.google.com/patent/US20200372679A1/en)] and shall not be used for any commercial application. For information about licensing please contact If you are interested in a commercial license, contact [Sportlogiq](https://sportlogiq.com) or [SLiQ Labs](https://sliqlabs.com). 
 
 ## Content of the repository
 1. The trained weights (both initial guess net, and loss surface net) for soccer.
